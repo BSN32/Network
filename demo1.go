@@ -1,7 +1,7 @@
 /*
 Json Dosyadan okuyup decode yapma işlemi
 7/03/2022
-Burak Şen
+TA4APJ
 */
 package jsontest
 
@@ -11,8 +11,6 @@ import (
 	"os"
 )
 
-// User struct which contains a name
-// a type and a list of social links
 type Users struct {
 	Name string `json:"name"`
 	Type string `json:"type"`
