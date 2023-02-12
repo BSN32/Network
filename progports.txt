@@ -1,0 +1,15 @@
+## Alpemix used ports, IP Addresses and Domains ##
+
+# Ports
+5901-5910
+8410-8420
+
+# IP Addresses
+77.92.134.135
+77.92.158.178
+77.92.158.180
+77.92.134.165
+
+# Domains
+alpemix.com
+teknopars.com
