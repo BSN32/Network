@@ -1,7 +1,7 @@
 ## Alpemix used ports, IP Addresses and Domains ##
 
 # Ports
-5901-5910
+5899-5910
 8410-8420
 
 # IP Addresses
